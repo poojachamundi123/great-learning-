@@ -5,27 +5,27 @@ It is a learning platform designed for students in rural and low-income areas, p
 The goal is to make quality education accessible, interactive, and inclusive for all students, regardless of location or internet availability.
 
 
-Introduction
-The rise of technology in education can transform learning outcomes, but access remains unequal. Students in rural and low-income areas face challenges such as:
+Introduction :
 
-Limited devices or internet connectivity
+-The rise of technology in education can transform learning outcomes, but access remains unequal. Students in rural and low-income areas face challenges such as:
 
-Shortage of qualified teachers
+-Limited devices or internet connectivity
 
-Lack of localized learning content
+-Shortage of qualified teachers
 
-Poor school infrastructure
+-Lack of localized learning content
 
-This project addresses these challenges by creating a low-cost, offline digital learning platform. Students can access lessons, complete exercises, and develop essential skills regardless of their location or financial background.
+-Poor school infrastructure
 
-Approach
-Content Preparation
+-This project addresses these challenges by creating a low-cost, offline digital learning platform. Students can access lessons, complete exercises, and develop essential skills regardless of their location or financial background.
 
-Collected lessons for core subjects and skill-building activities.
+-Approach
 
-Structured lessons into interactive modules with quizzes and exercises.
+-Content Preparation
 
-Translated content into local languages for accessibility.
+-Collected lessons for core subjects and skill-building activities.
+-Structured lessons into interactive modules with quizzes and exercises.
+-Translated content into local languages for accessibility.
 
 Feature Engineering
 
