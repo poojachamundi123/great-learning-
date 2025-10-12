@@ -1,4 +1,6 @@
 Low-Cost Offline Learning Platform for Rural and Underserved Students
+
+
 It is a learning platform designed for students in rural and low-income areas, providing education through low-cost devices and offline access.
 The goal is to make quality education accessible, interactive, and inclusive for all students, regardless of location or internet availability.
 
